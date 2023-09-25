@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="87731E85-A770-4FA9-BBB1-807EAC0FC10B" ModuleId="AccelerometrTest" />
+  <Module PersistentId="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553" ModuleId="Microsoft.Xna.Framework" />
+  <Module PersistentId="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553" ModuleId="Microsoft.Xna.Framework.Game" />
+  <Module PersistentId="AA6CB78E-9484-4843-8613-54CD2BF1E948" ModuleId="Farseer Physics XNA WP7" />
+  <Module PersistentId="FarseerPhysicsXNA, Version=3.3.4260.19637, Culture=neutral, PublicKeyToken=null" ModuleId="FarseerPhysicsXNA" />
+</Modules>

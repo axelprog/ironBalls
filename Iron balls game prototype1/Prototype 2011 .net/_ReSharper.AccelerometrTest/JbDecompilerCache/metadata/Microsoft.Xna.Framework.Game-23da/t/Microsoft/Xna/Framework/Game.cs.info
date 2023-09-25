@@ -1,0 +1,8 @@
+﻿Code version: 6.0.2202.688
+Assembly name Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553 mvid {db9391ab-1acb-4bb2-a121-c2f6ed4d5d5d}
+* ref Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553
+  mvid {cf9fd094-b4dc-4e66-b006-f9c8c6f4daf8}
+* ref Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553
+  mvid {4963429c-1b03-4c6a-abc2-c21e8307de88}
+* ref mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+  mvid {012c39b4-cb26-42b0-979b-33c3af598ecf}

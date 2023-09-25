@@ -1,0 +1,6 @@
+d:\work\Projects\tg\AccelerometrTest real game\Farseer Physics Engine 3.3.1 XNA\bin\Windows Phone\Release\FarseerPhysicsXNA.dll
+d:\work\Projects\tg\AccelerometrTest real game\Farseer Physics Engine 3.3.1 XNA\bin\Windows Phone\Release\FarseerPhysicsXNA.pdb
+d:\work\Projects\tg\AccelerometrTest real game\Farseer Physics Engine 3.3.1 XNA\obj\Windows Phone\Release\ResolveAssemblyReference.cache
+d:\work\Projects\tg\AccelerometrTest real game\Farseer Physics Engine 3.3.1 XNA\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+d:\work\Projects\tg\AccelerometrTest real game\Farseer Physics Engine 3.3.1 XNA\obj\Windows Phone\Release\FarseerPhysicsXNA.dll
+d:\work\Projects\tg\AccelerometrTest real game\Farseer Physics Engine 3.3.1 XNA\obj\Windows Phone\Release\FarseerPhysicsXNA.pdb

@@ -1,0 +1,617 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="AA6CB78E-9484-4843-8613-54CD2BF1E948/d:Dynamics/f:Island.cs" caret="3609" fromTop="12" />
+      <File id="AA6CB78E-9484-4843-8613-54CD2BF1E948/d:Dynamics/f:ContactManager.cs" caret="7943" fromTop="11" />
+      <File id="AA6CB78E-9484-4843-8613-54CD2BF1E948/d:Factories/f:FixtureFactory.cs" caret="6906" fromTop="23" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Properties/f:AssemblyInfo.cs" caret="328" fromTop="0" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Properties/f:AppManifest.xml" caret="0" fromTop="0" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Properties/f:WMAppManifest.xml" caret="1087" fromTop="19" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Services/f:ConvertUnits.cs" caret="3414" fromTop="21" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Services/f:PhysicService.cs" caret="858" fromTop="19" />
+      <File id="AA6CB78E-9484-4843-8613-54CD2BF1E948/d:Dynamics/f:Body.cs" caret="18971" fromTop="3" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Extensions/f:DrawPrimitivesHelper.cs" caret="1358" fromTop="10" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:UserData/f:UserProfile.cs" caret="451" fromTop="10" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:GameMode/f:IGameMode.cs" caret="251" fromTop="11" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:UI components/f:AbstractUIComponent.cs" caret="421" fromTop="17" />
+      <File id="AA6CB78E-9484-4843-8613-54CD2BF1E948/d:Common/d:Decomposition/d:CDT/d:Delaunay/d:Sweep/f:DTSweep.cs" caret="29246" fromTop="16" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:UI components/f:TexturedButton.cs" caret="2221" fromTop="28" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Screens/f:ScreenManager.cs" caret="2505" fromTop="20" />
+      <File id="AA6CB78E-9484-4843-8613-54CD2BF1E948/d:Common/f:PolygonTools.cs" caret="465" fromTop="5" />
+      <File id="AA6CB78E-9484-4843-8613-54CD2BF1E948/d:Factories/f:BodyFactory.cs" caret="3505" fromTop="13" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Screens/f:AbstractScreen.cs" caret="413" fromTop="14" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Components/f:SurvivalArea.cs" caret="437" fromTop="5" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Components/f:AbstractGameComponent.cs" caret="761" fromTop="16" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Components/f:BackgroundComponent.cs" caret="2786" fromTop="15" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Components/f:OrbComponent.cs" caret="1925" fromTop="15" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Screens/f:GameScreen.cs" caret="7261" fromTop="8" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Components/f:BarrierParticleComponent.cs" caret="395" fromTop="0" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:GameMode/f:SurvivalMode.cs" caret="3413" fromTop="14" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Services/f:DisplayService.cs" caret="323" fromTop="7" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/f:GameMain.cs" caret="473" fromTop="0" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:GameMode/f:TronMode.cs" caret="5315" fromTop="15" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Screens/f:MainMenuScreen.cs" caret="1649" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:GameMode/f:TronMode.cs" caret="3859" fromTop="19" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:GameMode/f:TronMode.cs" caret="3207" fromTop="10" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:GameMode/f:SurvivalMode.cs" caret="3505" fromTop="13" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:GameMode/f:TronMode.cs" caret="756" fromTop="10" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Components/f:BarrierParticleComponent.cs" caret="2533" fromTop="23" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Screens/f:GameScreen.cs" caret="5954" fromTop="22" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Components/f:BarrierParticleComponent.cs" caret="4244" fromTop="26" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Components/f:AbstractGameComponent.cs" caret="761" fromTop="16" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Components/f:OrbComponent.cs" caret="1414" fromTop="17" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Components/f:OrbComponent.cs" caret="2619" fromTop="10" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Components/f:BackgroundComponent.cs" caret="2358" fromTop="24" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Components/f:BackgroundComponent.cs" caret="3270" fromTop="26" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Components/f:OrbComponent.cs" caret="1918" fromTop="15" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Screens/f:GameScreen.cs" caret="6720" fromTop="23" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:GameMode/f:TronMode.cs" caret="1988" fromTop="24" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:GameMode/f:TronMode.cs" caret="1783" fromTop="13" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Components/f:BarrierParticleComponent.cs" caret="1035" fromTop="0" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:GameMode/f:TronMode.cs" caret="959" fromTop="10" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Components/f:BarrierParticleComponent.cs" caret="395" fromTop="15" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Screens/f:GameScreen.cs" caret="972" fromTop="0" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Screens/f:GameScreen.cs" caret="7609" fromTop="12" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Screens/f:GameScreen.cs" caret="7857" fromTop="15" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:GameMode/f:TronMode.cs" caret="628" fromTop="12" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:GameMode/f:TronMode.cs" caret="4120" fromTop="16" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:GameMode/f:TronMode.cs" caret="4025" fromTop="14" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:GameMode/f:TronMode.cs" caret="3537" fromTop="17" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:GameMode/f:TronMode.cs" caret="4665" fromTop="21" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:Screens/f:GameScreen.cs" caret="7261" fromTop="8" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:GameMode/f:TronMode.cs" caret="4616" fromTop="5" />
+      <File id="87731E85-A770-4FA9-BBB1-807EAC0FC10B/d:GameMode/f:TronMode.cs" caret="5102" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="1728" />
+      <Item value="override" priority="401" />
+      <Item value="void" priority="674" />
+      <Item value="private" priority="1140" />
+      <Item value="Texture2D`0" priority="92" />
+      <Item value="_background" priority="243" />
+      <Item value="LoadContent`0" priority="61" />
+      <Item value="ContentManager`0" priority="30" />
+      <Item value="if" priority="743" />
+      <Item value="_instance" priority="242" />
+      <Item value="null" priority="278" />
+      <Item value="ContentLoaderService`0" priority="61" />
+      <Item value="GameTime`0" priority="61" />
+      <Item value="gameTime" priority="310" />
+      <Item value="Vector2`0" priority="1420" />
+      <Item value="Color`0" priority="180" />
+      <Item value="DisplayService`0" priority="277" />
+      <Item value="IList" priority="61" />
+      <Item value="new" priority="1301" />
+      <Item value="List&lt;GameComponent&gt;" priority="27" />
+      <Item value="for" priority="154" />
+      <Item value="foreach" priority="242" />
+      <Item value="gameComponent" priority="30" />
+      <Item value="abstract" priority="153" />
+      <Item value="base" priority="185" />
+      <Item value="virtual" priority="123" />
+      <Item value="AbstractGameComponent`0" priority="123" />
+      <Item value="_components" priority="92" />
+      <Item value="BackgroundImage" priority="27" />
+      <Item value="_graphics" priority="56" />
+      <Item value="true" priority="123" />
+      <Item value="Default" priority="16" />
+      <Item value="_orb" priority="371" />
+      <Item value="SpriteBatch`0" priority="30" />
+      <Item value="SpriteBatch" priority="206" />
+      <Item value="Vector2" priority="420" />
+      <Item value="Rectangle" priority="55" />
+      <Item value="OrbComponent" priority="27" />
+      <Item value="World" priority="28" />
+      <Item value="using" priority="29" />
+      <Item value="World`0" priority="92" />
+      <Item value="GraphicsDeviceManager`0" priority="25" />
+      <Item value="#region" priority="61" />
+      <Item value="#endregion" priority="61" />
+      <Item value="static" priority="185" />
+      <Item value="PhysicService`0" priority="216" />
+      <Item value="get" priority="63" />
+      <Item value="PhysicService" priority="27" />
+      <Item value="return" priority="278" />
+      <Item value="_world" priority="61" />
+      <Item value="Body`0" priority="91" />
+      <Item value="_position" priority="154" />
+      <Item value="ConvertUnits`0" priority="82" />
+      <Item value="_physicBody" priority="309" />
+      <Item value="_anchor" priority="30" />
+      <Item value="value" priority="92" />
+      <Item value="e" priority="185" />
+      <Item value="float" priority="157" />
+      <Item value="scale" priority="92" />
+      <Item value="var" priority="866" />
+      <Item value="soundPath" priority="30" />
+      <Item value="texturePath" priority="30" />
+      <Item value="TouchPanel`0" priority="61" />
+      <Item value="InputState`0" priority="61" />
+      <Item value="out" priority="30" />
+      <Item value="CurrentGamePadStates" priority="25" />
+      <Item value="Position" priority="278" />
+      <Item value="gravityVector" priority="30" />
+      <Item value="None" priority="16" />
+      <Item value="_centerOffset" priority="30" />
+      <Item value="contact" priority="30" />
+      <Item value="fixtureA" priority="30" />
+      <Item value="BodyFactory`0" priority="30" />
+      <Item value="borders" priority="61" />
+      <Item value="edge" priority="30" />
+      <Item value="Static" priority="16" />
+      <Item value="false" priority="61" />
+      <Item value="SurvivalArea`0" priority="61" />
+      <Item value="_area" priority="371" />
+      <Item value="SurvivalArea" priority="27" />
+      <Item value="double" priority="30" />
+      <Item value="Radius" priority="61" />
+      <Item value="Scale" priority="92" />
+      <Item value="UserProfile`0" priority="216" />
+      <Item value="UserProfile" priority="27" />
+      <Item value="CurrentPoints" priority="30" />
+      <Item value="prop" priority="30" />
+      <Item value="ExecuteGameLogic`0" priority="30" />
+      <Item value="orb" priority="248" />
+      <Item value="long" priority="30" />
+      <Item value="ReferenceEquals`0" priority="30" />
+      <Item value="else" priority="123" />
+      <Item value="_saveSeconds" priority="30" />
+      <Item value="_radius" priority="92" />
+      <Item value="PrimitiveType`0" priority="30" />
+      <Item value="byte" priority="30" />
+      <Item value="thickness" priority="117" />
+      <Item value="radius" priority="61" />
+      <Item value="i" priority="92" />
+      <Item value="Dispose`0" priority="30" />
+      <Item value="InvalidateTexture`0" priority="30" />
+      <Item value="Random`0" priority="123" />
+      <Item value="Random" priority="55" />
+      <Item value="_random" priority="153" />
+      <Item value="int" priority="155" />
+      <Item value="GraphicsDevice" priority="30" />
+      <Item value="Exit`0" priority="61" />
+      <Item value="SpriteEffects`0" priority="92" />
+      <Item value="AbstractScreen`0" priority="61" />
+      <Item value="Game`0" priority="216" />
+      <Item value="_game" priority="123" />
+      <Item value="game" priority="153" />
+      <Item value="_screens" priority="122" />
+      <Item value="GameScreen" priority="27" />
+      <Item value="_currentScreen" priority="122" />
+      <Item value="ChangeScreen`0" priority="61" />
+      <Item value="IDictionary" priority="30" />
+      <Item value="Dictionary&lt;string,AbstractScreen&gt;" priority="28" />
+      <Item value="string" priority="61" />
+      <Item value="typeScreen" priority="30" />
+      <Item value="readonly" priority="30" />
+      <Item value="_screenManager" priority="185" />
+      <Item value="ScreenManager" priority="151" />
+      <Item value="protected" priority="122" />
+      <Item value="Components" priority="366" />
+      <Item value="ParamArrayAttribute`0" priority="30" />
+      <Item value="asd`0" priority="30" />
+      <Item value="enum" priority="59" />
+      <Item value="ScreenManager`0" priority="123" />
+      <Item value="manager" priority="61" />
+      <Item value="this" priority="61" />
+      <Item value="DrawPrimitivesHelper`0" priority="30" />
+      <Item value="width" priority="122" />
+      <Item value="data" priority="30" />
+      <Item value="j" priority="30" />
+      <Item value="Size" priority="185" />
+      <Item value="BarrierParticleComponent" priority="55" />
+      <Item value="Game" priority="30" />
+      <Item value="_onColission" priority="30" />
+      <Item value="event" priority="122" />
+      <Item value="BeginContactDelegate`0" priority="31" />
+      <Item value="AfterCollisionEventHandler`0" priority="31" />
+      <Item value="TimeSpan`0" priority="61" />
+      <Item value="EventArgs" priority="27" />
+      <Item value="random" priority="61" />
+      <Item value="_size" priority="92" />
+      <Item value="switch" priority="92" />
+      <Item value="case" priority="61" />
+      <Item value="break" priority="123" />
+      <Item value="default" priority="30" />
+      <Item value="_rect" priority="61" />
+      <Item value="_edge" priority="61" />
+      <Item value="_offset" priority="92" />
+      <Item value="InvalidateTextures`0" priority="25" />
+      <Item value="height" priority="30" />
+      <Item value="rnd" priority="30" />
+      <Item value="typeof" priority="30" />
+      <Item value="_TypeNum" priority="25" />
+      <Item value="BackgroundImage`0" priority="30" />
+      <Item value="pos" priority="30" />
+      <Item value="posX" priority="123" />
+      <Item value="barrier" priority="154" />
+      <Item value="posY" priority="61" />
+      <Item value="MinValue" priority="61" />
+      <Item value="MaxValue" priority="61" />
+      <Item value="ScreenType`0" priority="182" />
+      <Item value="MainMenuScreen" priority="27" />
+      <Item value="AbstractUIComponent`0" priority="29" />
+      <Item value="Visible" priority="112" />
+      <Item value="EventHandler`0" priority="62" />
+      <Item value="spriteBatch" priority="30" />
+      <Item value="_buttonTexture" priority="56" />
+      <Item value="loader" priority="61" />
+      <Item value="_buttonTexturePressed" priority="30" />
+      <Item value="String`0" priority="30" />
+      <Item value="_normalTextureName" priority="61" />
+      <Item value="normalTextureName" priority="30" />
+      <Item value="_pressedTextureName" priority="61" />
+      <Item value="pressedTextureName" priority="30" />
+      <Item value="_survivalButton" priority="61" />
+      <Item value="BarrierParticleComponent`0" priority="123" />
+      <Item value="SetBarrierPos`0" priority="30" />
+      <Item value="SetSurvivalAreaPos`0" priority="30" />
+      <Item value="Type`0" priority="25" />
+      <Item value="ExecutionEngineException`0" priority="30" />
+      <Item value="GameMain`0" priority="30" />
+      <Item value="IGameMode`0" priority="92" />
+      <Item value="SurvivalMode`0" priority="30" />
+      <Item value="_minFieldPoint" priority="30" />
+      <Item value="_maxFieldPoint" priority="30" />
+      <Item value="OrbComponent`0" priority="61" />
+      <Item value="List" priority="114" />
+      <Item value="returnList" priority="30" />
+      <Item value="_survivalMode" priority="310" />
+      <Item value="SurvivalMode" priority="27" />
+      <Item value="barrierParticleComponent" priority="92" />
+      <Item value="List&lt;AbstractGameComponent&gt;" priority="55" />
+      <Item value="components" priority="61" />
+      <Item value="TronMode`0" priority="123" />
+      <Item value="_tronMode" priority="123" />
+      <Item value="TronMode" priority="27" />
+      <Item value="_survivalMode_OnGameOver`0" priority="31" />
+      <Item value="_currentMode" priority="371" />
+      <Item value="GameModes`0" priority="25" />
+      <Item value="abstractGameComponent" priority="92" />
+      <Item value="initComponents" priority="30" />
+      <Item value="GameScreen`0" priority="31" />
+      <Item value="SpriteSortMode`0" priority="30" />
+      <Item value="BlendState`0" priority="30" />
+      <Item value="bool" priority="92" />
+      <Item value="isRandom" priority="30" />
+      <Item value="size" priority="92" />
+      <Item value="type" priority="30" />
+      <Item value="_lastOrbPosition" priority="154" />
+      <Item value="_savedOrbPosition" priority="30" />
+      <Item value="_startBarrierPos" priority="92" />
+      <Item value="_endBarrierPos" priority="93" />
+      <Item value="_drawBarrier" priority="92" />
+      <Item value="barriers" priority="61" />
+      <Item value="_barrierPos" priority="93" />
+      <Item value="_widthBarrier" priority="154" />
+      <Item value="_barrier" priority="31" />
+      <Item value="List&lt;BarrierParticleComponent&gt;" priority="27" />
+      <Item value="_barriers" priority="185" />
+      <Item value="Destroy`0" priority="30" />
+      <Item value="_edges" priority="30" />
+      <Item value="body" priority="30" />
+      <Item value="is" priority="61" />
+      <Item value="_lastDeleteTime" priority="30" />
+      <Item value="_lastBarrierPos" priority="153" />
+      <Item value="while" priority="30" />
+      <Item value="vector" priority="92" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AccelerometrTest.Services.ContentLoaderService">
+      <Item value="Instance" priority="103" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AccelerometrTest.Services.ContentLoaderService">
+      <Item value="LoadTexture`0" priority="53" />
+      <Item value="UnloadTexture`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Vector2">
+      <Item value="Zero" priority="431" />
+      <Item value="UnitY" priority="22" />
+      <Item value="One" priority="215" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Color">
+      <Item value="Wheat" priority="26" />
+      <Item value="White" priority="184" />
+      <Item value="FromNonPremultiplied`0" priority="27" />
+      <Item value="Yellow" priority="55" />
+      <Item value="SandyBrown" priority="22" />
+      <Item value="Black" priority="55" />
+      <Item value="RosyBrown" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AccelerometrTest.Services.DisplayService">
+      <Item value="Initialize`0" priority="26" />
+      <Item value="Instance" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GameComponent">
+      <Item value="Initialize`0" priority="53" />
+      <Item value="Update`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AccelerometrTest.Components.AbstractGameComponent">
+      <Item value="Update`0" priority="54" />
+      <Item value="LoadContent`0" priority="27" />
+      <Item value="Draw`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="218" />
+      <Item value="Join`4" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GraphicsDeviceManager">
+      <Item value="IsFullScreen" priority="27" />
+      <Item value="SupportedOrientations" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.DisplayOrientation">
+      <Item value="Portrait" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.SpriteBatch">
+      <Item value="Begin`0" priority="26" />
+      <Item value="End`0" priority="26" />
+      <Item value="Draw`0" priority="49" />
+      <Item value="GraphicsDevice" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.Texture2D">
+      <Item value="Width" priority="161" />
+      <Item value="Height" priority="108" />
+      <Item value="SaveAsJpeg`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.GraphicsDeviceManager">
+      <Item value="DefaultBackBufferHeight" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AccelerometrTest.Services.DisplayService">
+      <Item value="GetCanvas`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AccelerometrTest.Services.PhysicService">
+      <Item value="Instance" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AccelerometrTest.Services.PhysicService">
+      <Item value="World" priority="107" />
+      <Item value="SetGravity`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FarseerPhysics.Factories.BodyFactory">
+      <Item value="CreateCircle`0" priority="27" />
+      <Item value="CreateEdge`0" priority="26" />
+      <Item value="CreateRectangle`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AccelerometrTest.Services.ConvertUnits">
+      <Item value="ToSimUnits`0" priority="104" />
+      <Item value="ToDisplayUnits`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FarseerPhysics.Dynamics.Body">
+      <Item value="Position" priority="80" />
+      <Item value="IsStatic" priority="26" />
+      <Item value="BodyType" priority="26" />
+      <Item value="SleepingAllowed" priority="26" />
+      <Item value="Rotation" priority="26" />
+      <Item value="Mass" priority="26" />
+      <Item value="DestroyFixture`0" priority="26" />
+      <Item value="Dispose`0" priority="81" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FarseerPhysics.Dynamics.World">
+      <Item value="Gravity" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Devices.Sensors.Accelerometer">
+      <Item value="ReadingChanged" priority="26" />
+      <Item value="CurrentValueChanged" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Devices.Sensors.AccelerometerReadingEventArgs">
+      <Item value="X" priority="134" />
+      <Item value="Y" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AccelerometrTest.Services.InputState">
+      <Item value="Instance" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AccelerometrTest.Services.InputState">
+      <Item value="IsNewButtonPress`0" priority="53" />
+      <Item value="Update`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Input.Buttons">
+      <Item value="Back" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Vector2">
+      <Item value="Normalize`0" priority="81" />
+      <Item value="Length`0" priority="80" />
+      <Item value="X" priority="130" />
+      <Item value="Y" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Input.Touch.TouchPanel">
+      <Item value="EnabledGestures" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FarseerPhysics.Dynamics.Contacts.Contact">
+      <Item value="ChildIndexA" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="134" />
+      <Item value="AddRange`0" priority="81" />
+      <Item value="RemoveRange`0" priority="26" />
+      <Item value="Remove`0" priority="82" />
+      <Item value="ToArray`0" priority="26" />
+      <Item value="Count" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AccelerometrTest.UserData.UserProfile">
+      <Item value="Instance" priority="81" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AccelerometrTest.UserData.UserProfile">
+      <Item value="CurrentPoints" priority="53" />
+      <Item value="Clear`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AccelerometrTest.Components.OrbComponent">
+      <Item value="Position" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AccelerometrTest.Components.SurvivalArea">
+      <Item value="Position" priority="26" />
+      <Item value="Radius" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="WriteLine`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Devices.Sensors.SensorReadingEventArgs`1">
+      <Item value="SensorReading" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Devices.Sensors.AccelerometerReading">
+      <Item value="Acceleration" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GameTime">
+      <Item value="TotalGameTime" priority="26" />
+      <Item value="ElapsedGameTime" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="TotalSeconds" priority="80" />
+      <Item value="TotalMilliseconds" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@IronBalls.UserData.UserProfile">
+      <Item value="Instance" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IronBalls.UserData.UserProfile">
+      <Item value="RemainingTime" priority="108" />
+      <Item value="CurrentPoints" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IronBalls.Components.SurvivalArea">
+      <Item value="Radius" priority="108" />
+      <Item value="Position" priority="26" />
+      <Item value="Initialize`0" priority="26" />
+      <Item value="LoadContent`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@IronBalls.Services.DisplayService">
+      <Item value="Instance" priority="184" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IronBalls.Services.DisplayService">
+      <Item value="GraphicsDevice" priority="149" />
+      <Item value="DisplayWidth" priority="27" />
+      <Item value="DisplayHeight" priority="82" />
+      <Item value="GetCanvas`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.GraphicsDevice">
+      <Item value="DisplayMode" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.DisplayMode">
+      <Item value="Width" priority="107" />
+      <Item value="Height" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="269" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Graphics.SpriteEffects">
+      <Item value="None" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IronBalls.Screens.AbstractScreen">
+      <Item value="Update`0" priority="26" />
+      <Item value="ScreenType" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IDictionary`2">
+      <Item value="Values" priority="27" />
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.DrawableGameComponent">
+      <Item value="LoadContent`0" priority="26" />
+      <Item value="UnloadContent`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IronBalls.Screens.ScreenManager">
+      <Item value="Initialize`0" priority="22" />
+      <Item value="Update`0" priority="26" />
+      <Item value="Draw`0" priority="26" />
+      <Item value="UnloadContent`0" priority="22" />
+      <Item value="GameExit`0" priority="53" />
+      <Item value="ChangeScreen`0" priority="81" />
+      <Item value="CurrentScreen" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@IronBalls.Extensions.DrawPrimitivesHelper">
+      <Item value="CreateRectangleFill`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IronBalls.Components.OrbComponent">
+      <Item value="OnColission" priority="26" />
+      <Item value="Position" priority="134" />
+      <Item value="Radius" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FarseerPhysics.Dynamics.BodyType">
+      <Item value="Static" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IronBalls.Components.BackgroundComponent">
+      <Item value="Borders" priority="27" />
+      <Item value="MinValue" priority="82" />
+      <Item value="MaxValue" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IronBalls.Components.BarrierParticleComponent">
+      <Item value="Size" priority="22" />
+      <Item value="Position" priority="26" />
+      <Item value="Initialize`0" priority="26" />
+      <Item value="LoadContent`0" priority="26" />
+      <Item value="IsNeedDelete" priority="26" />
+      <Item value="Destroy`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@IronBalls.Screens.ScreenType">
+      <Item value="GameMenu" priority="109" />
+      <Item value="MainGame" priority="108" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IronBalls.Services.ContentLoaderService">
+      <Item value="LoadTexture`0" priority="53" />
+      <Item value="UnloadTexture`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IronBalls.UI_components.TexturedButton">
+      <Item value="OnClick" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IronBalls.Screens.ScreenType">
+      <Item value="GameMenu" priority="54" />
+      <Item value="MainGame" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IronBalls.GameMode.SurvivalMode">
+      <Item value="OnColissionOrb`0" priority="27" />
+      <Item value="ExecuteGameLogic`0" priority="26" />
+      <Item value="AddBarrier`0" priority="26" />
+      <Item value="InitializeMode`0" priority="26" />
+      <Item value="OnGameOver" priority="26" />
+      <Item value="GetModeGeneratedComponents`0" priority="49" />
+      <Item value="GetType`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IronBalls.GameMode.TronMode">
+      <Item value="OnGameOver" priority="26" />
+      <Item value="GetModeGeneratedComponents`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IronBalls.GameMode.IGameMode">
+      <Item value="GetModeGeneratedComponents`0" priority="53" />
+      <Item value="InitializeMode`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IronBalls.Components.AbstractGameComponent">
+      <Item value="Initialize`0" priority="26" />
+      <Item value="LoadContent`0" priority="27" />
+      <Item value="UnloadContent`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IronBalls.Screens.GameScreen">
+      <Item value="ChangeMode`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@IronBalls.GameMode.GameModes">
+      <Item value="SurvivalMode" priority="22" />
+      <Item value="TronMode" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Graphics.SpriteSortMode">
+      <Item value="BackToFront" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Graphics.BlendState">
+      <Item value="Additive" priority="26" />
+      <Item value="AlphaBlend" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="Value" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

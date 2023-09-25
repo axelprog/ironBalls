@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronBalls", "AccelerometrTest\AccelerometrTest\IronBalls.csproj", "{87731E85-A770-4FA9-BBB1-807EAC0FC10B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronBallsContent", "AccelerometrTest\AccelerometrTestContent\IronBallsContent.contentproj", "{CD61E2A8-5AB9-41C9-9778-622894B39E0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farseer Physics XNA WP7", "Farseer Physics Engine 3.3.1 XNA\Farseer Physics XNA WP7.csproj", "{AA6CB78E-9484-4843-8613-54CD2BF1E948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87731E85-A770-4FA9-BBB1-807EAC0FC10B}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{87731E85-A770-4FA9-BBB1-807EAC0FC10B}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{87731E85-A770-4FA9-BBB1-807EAC0FC10B}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{87731E85-A770-4FA9-BBB1-807EAC0FC10B}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{87731E85-A770-4FA9-BBB1-807EAC0FC10B}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{87731E85-A770-4FA9-BBB1-807EAC0FC10B}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{CD61E2A8-5AB9-41C9-9778-622894B39E0F}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{CD61E2A8-5AB9-41C9-9778-622894B39E0F}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{AA6CB78E-9484-4843-8613-54CD2BF1E948}.Debug|Windows Phone.ActiveCfg = Release|Windows Phone
+		{AA6CB78E-9484-4843-8613-54CD2BF1E948}.Debug|Windows Phone.Build.0 = Release|Windows Phone
+		{AA6CB78E-9484-4843-8613-54CD2BF1E948}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{AA6CB78E-9484-4843-8613-54CD2BF1E948}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{AA6CB78E-9484-4843-8613-54CD2BF1E948}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
